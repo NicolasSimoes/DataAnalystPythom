@@ -18,7 +18,7 @@ Seaborn: Visualização estatística de dados
 Plotly: Visualização interativa de dados
 3. Projeto: Análise de Dados com Pandas
 Limpeza e Transformação de Dados
-Análise Exploratória de Dados (EDA)
+Análise Exploratória de Dados (EDA)																																		
 Agregação e Agrupamento de Dados
 Visualização de Dados
 4. Projeto: Visualização Interativa com Plotly
